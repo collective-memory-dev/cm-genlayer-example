@@ -1,0 +1,6 @@
+genlayer/
+node_modules/
+.env
+npm-debug.log
+index.js
+.contract-addresses.json

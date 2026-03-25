@@ -1,0 +1,23 @@
+{
+    "name": "cm-genlayer-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^17.2.1",
+        "express": "^5.1.0",
+        "genlayer-js": "^0.21.2"
+    },
+    "devDependencies": {
+        "vercel": "^28.18.5"
+    }
+}
