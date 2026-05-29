@@ -15,7 +15,7 @@
         "cors": "^2.8.5",
         "dotenv": "^17.2.1",
         "express": "^5.1.0",
-        "genlayer-js": "^0.21.2"
+        "genlayer-js": "^1.1.8"
     },
     "devDependencies": {
         "vercel": "^28.18.5"
